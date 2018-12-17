@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  VehicleCount.cpp
+e:\computer vision\vehiclecount\vehiclecount\vehiclecount.cpp(77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Blob.cpp
+  Generating Code...
+  VehicleCount.vcxproj -> E:\computer vision\VehicleCount\x64\Debug\VehicleCount.exe
+  VehicleCount.vcxproj -> E:\computer vision\VehicleCount\x64\Debug\VehicleCount.pdb (Full PDB)
